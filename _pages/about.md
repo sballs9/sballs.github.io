@@ -4,10 +4,10 @@ title: "About"
 author_profile: true
 ---
 
-I am currently a PhD student in Statistics at the University of Texas at Austin. Prior to attending UT Austin, I graduated from Brigham Young University with a bachelor's degree in Statistics and a minor in Mathematics. My research interests lie in Bayesian inference and statistical/machine learning. As I explore these areas, I am committed to the ethical practice of statistics and aim to produce work that benefits society. I am excited by the opportunity to apply statistics in meaningful ways, whatever the field.
+I am a first-year PhD student in Statistics at the University of Texas at Austin. Prior to UT Austin, I graduated from Brigham Young University with a bachelor's degree in Statistics and a minor in Mathematics. My primary research interest lies in Bayesian statistical modeling for spatiotemporal data. I am particularly drawn to applications in sports, environmental and ecological statistics, and national security. A commitment to principled statistical practice and a desire to make a meaningful impact guide my work.
 
 <div style="text-align:center; margin: 20px;">
   <img src="/images/5B88A655-CA1D-41E3-AA0F-D227E010D6A7_1_105_c.jpeg" alt="expected goals" style="width: 600px;"/>
 </div>
 
-Beyond academics, I like to stay active through soccer and golf. I also enjoy watching sports, traveling, playing video games, reading, and, above all, spending time with my wife.
+Beyond academics, I enjoy playing soccer and golf, bouldering, watching sports, traveling, reading, and, above all, spending time with my wife.
